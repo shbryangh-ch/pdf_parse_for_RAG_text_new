@@ -1,0 +1,2 @@
+# pdf_parse_for_RAG_text_new
+把pdf文件的文字內容利用截圖的思路轉成RAG用的格式 
